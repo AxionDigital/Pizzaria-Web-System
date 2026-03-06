@@ -37,8 +37,6 @@ Sistema simples de identificação utilizando:
 - Horário de funcionamento  
 - Dias de atendimento  
 
----
-
 # 🛠️ Dashboard Administrativa
 
 Área completa para gestão da pizzaria.
@@ -74,8 +72,6 @@ O sistema gera automaticamente:
 - Ticket médio  
 - Ranking de produtos mais vendidos  
 
----
-
 # 🤖 Integração com Bot
 
 O sistema pode ser integrado com **bots de atendimento automatizado**, como:
@@ -92,8 +88,6 @@ O sistema pode ser integrado com **bots de atendimento automatizado**, como:
 - Responder dúvidas dos clientes  
 - Enviar link de acompanhamento do pedido  
 
----
-
 # 🔄 Fluxo de Funcionamento
 
 1. O cliente acessa o site  
@@ -103,8 +97,6 @@ O sistema pode ser integrado com **bots de atendimento automatizado**, como:
 5. O pedido é enviado para a **dashboard administrativa**  
 6. O administrador gerencia o status do pedido  
 7. O sistema registra os dados e gera **relatórios automaticamente**
-
----
 
 # 🧰 Tecnologias Utilizadas
 
@@ -123,8 +115,6 @@ O sistema pode ser integrado com **bots de atendimento automatizado**, como:
 - Dashboard administrativa  
 - Gerenciamento de estado  
 
----
-
 # 📱 Responsividade
 
 O sistema foi desenvolvido para funcionar em:
@@ -133,19 +123,13 @@ O sistema foi desenvolvido para funcionar em:
 - 💻 Computadores  
 - 📟 Tablets  
 
----
-
 # 💡 Melhorias Futuras
 
 - Integração com **pagamento online (Pix / Cartão)**  
 
----
-
 # 📌 Objetivo do Projeto
 
 Criar uma solução moderna para **digitalizar pedidos de pizzarias**, facilitando a gestão do negócio e melhorando a experiência do cliente.
-
----
 
 # 👨‍💻 Autor
 
