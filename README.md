@@ -1,11 +1,10 @@
-
 # 🍕 Pizzaria Web System
 
 Sistema completo de **e-commerce para pizzaria**, permitindo que clientes visualizem o cardápio, personalizem pedidos e realizem compras online.
 
 O sistema também possui uma **dashboard administrativa** para gerenciamento de pedidos, produtos e relatórios de vendas.
 
-Além disso, o projeto pode ser integrado com **bots de atendimento automatizado**, como WhatsApp, para automatizar pedidos e comunicação com clientes.
+Além disso, o projeto possui **integração com bot no Telegram**, responsável por enviar informações de pedidos e atualizações de status para os clientes. Futuramente está planejada a integração com **WhatsApp** para ampliar o atendimento automatizado.
 
 # 🚀 Funcionalidades
 
@@ -50,7 +49,6 @@ Visualização em tempo real com status:
 - Cancelado  
 
 ## 🍕 Gestão de Cardápio
-
 - Adicionar produtos  
 - Editar produtos  
 - Remover produtos  
@@ -74,19 +72,20 @@ O sistema gera automaticamente:
 
 # 🤖 Integração com Bot
 
-O sistema pode ser integrado com **bots de atendimento automatizado**, como:
+O sistema possui **integração com bot no Telegram**, permitindo automatizar a comunicação com clientes.
 
-- Bot de **WhatsApp**  
-- Bot de **Telegram**  
-- Assistente virtual no site  
+### Funcionalidades do Bot
 
-### Possibilidades
+- Envio automático de **novos pedidos**
+- Notificação de **status do pedido**
+- Informações do pedido para o cliente
+- Comunicação rápida entre sistema e usuário
 
-- Receber pedidos automaticamente  
-- Enviar status do pedido  
-- Notificar quando o pedido estiver pronto  
-- Responder dúvidas dos clientes  
-- Enviar link de acompanhamento do pedido  
+### Futuras Integrações
+
+- Integração com **WhatsApp**
+
+Essa automação melhora a **experiência do cliente e agiliza o atendimento da pizzaria**.
 
 # 🔄 Fluxo de Funcionamento
 
@@ -96,7 +95,8 @@ O sistema pode ser integrado com **bots de atendimento automatizado**, como:
 4. Informa **Nome e WhatsApp**  
 5. O pedido é enviado para a **dashboard administrativa**  
 6. O administrador gerencia o status do pedido  
-7. O sistema registra os dados e gera **relatórios automaticamente**
+7. O sistema envia **notificações automáticas pelo Telegram**  
+8. O sistema registra os dados e gera **relatórios automaticamente**
 
 # 🧰 Tecnologias Utilizadas
 
@@ -108,7 +108,10 @@ O sistema pode ser integrado com **bots de atendimento automatizado**, como:
 
 ## Backend
 - TypeScript
-- Express.js  
+- Express.js
+
+## Integrações
+- Telegram Bot API
 
 ## Outros
 - Sistema de autenticação  
@@ -125,7 +128,8 @@ O sistema foi desenvolvido para funcionar em:
 
 # 💡 Melhorias Futuras
 
-- Integração com **pagamento online (Pix / Cartão)**  
+- Integração completa com **WhatsApp**
+- Pagamento online (**Pix / Cartão**)
 
 # 📌 Objetivo do Projeto
 
@@ -136,4 +140,4 @@ Criar uma solução moderna para **digitalizar pedidos de pizzarias**, facilitan
 Desenvolvido por **Miguel Aleixo**
 
 GitHub:  
-https://github.com/Miguel-Aleixo
+https://github.com/SEU-USUARIO
